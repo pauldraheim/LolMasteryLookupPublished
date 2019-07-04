@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/LolMasteryLookupPublished/static/css/main.51b806da.chunk.css",
+    "main.js": "/LolMasteryLookupPublished/static/js/main.481f410e.chunk.js",
+    "main.js.map": "/LolMasteryLookupPublished/static/js/main.481f410e.chunk.js.map",
+    "runtime~main.js": "/LolMasteryLookupPublished/static/js/runtime~main.e1220137.js",
+    "runtime~main.js.map": "/LolMasteryLookupPublished/static/js/runtime~main.e1220137.js.map",
+    "static/js/2.ea2d8f77.chunk.js": "/LolMasteryLookupPublished/static/js/2.ea2d8f77.chunk.js",
+    "static/js/2.ea2d8f77.chunk.js.map": "/LolMasteryLookupPublished/static/js/2.ea2d8f77.chunk.js.map",
+    "index.html": "/LolMasteryLookupPublished/index.html",
+    "precache-manifest.6e992ac2e466802e65e6f0618d41d886.js": "/LolMasteryLookupPublished/precache-manifest.6e992ac2e466802e65e6f0618d41d886.js",
+    "service-worker.js": "/LolMasteryLookupPublished/service-worker.js",
+    "static/css/main.51b806da.chunk.css.map": "/LolMasteryLookupPublished/static/css/main.51b806da.chunk.css.map",
+    "static/media/chestGranted.png": "/LolMasteryLookupPublished/static/media/chestGranted.b3af4bc3.png"
+  }
+}
